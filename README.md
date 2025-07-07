@@ -31,7 +31,7 @@ A través de un estudio exploratorio y visual del conjunto de datos de ventas, s
 ### Ingresos por Tienda
 Comparación de ingresos totales entre las cuatro tiendas.
 
-![Barras ingresos](totales_por_tienda.png)
+![Barras ingresos](totales por tienda.png)
 
 ---
 
